@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanoel-messias-de-lima-95a0741b5)
 
-![Messias GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Messias&show_icons=true&theme=radical)
+
 
 ## Tecnologia que eu uso no meu dia
 
