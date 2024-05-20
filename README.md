@@ -15,3 +15,6 @@
   <img alt="node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div>
 
+
+![snake gif](https://github.com/Dev-Messias/Dev-Messias/blob/output/github-contribution-grid-snake.gif)
+
