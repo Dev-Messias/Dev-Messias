@@ -1,9 +1,13 @@
 <h1>Olá! Eu sou Emanoel Messias </h1>
 
-
+<div>
+    <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="center">
+</div>
 
 <div>
-    <p>Ser desenvolvedor é uma viagem onde a próxima parada é a solução de um problema.</p>
+ <h3>Sobre mim</h3> 
+
+<p text="center" > Sou um desenvolvedor front-end apaixonado por criar interfaces de usuário dinâmicas e responsivas. Minha jornada no desenvolvimento web começou com a construção de sites simples utilizando HTML, CSS e JavaScript. Desde então, evoluí para trabalhar com tecnologias mais avançadas, como React.js, React Native e TailwindCSS, para criar aplicações web e móveis modernas e eficientes.</p>
 </div>
 
 
